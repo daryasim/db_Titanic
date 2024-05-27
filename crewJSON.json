@@ -1,0 +1,35 @@
+[
+    {
+        "boat_id": "1",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "role": "Captain",
+        "Cabin": {
+            "cabin_name": "A1",
+            "cabin_number": "101",
+            "deck": "Upper"
+        }
+    },
+    {
+        "boat_id": "2",
+        "first_name": "Michael",
+        "last_name": "Johnson",
+        "role": "First Mate",
+        "Cabin": {
+            "cabin_name": "B3",
+            "cabin_number": "205",
+            "deck": "Middle"
+        }
+    },
+    {
+        "boat_id": "3",
+        "first_name": "Emily",
+        "last_name": "Brown",
+        "role": "Engineer",
+        "Cabin": {
+            "cabin_name": "C4",
+            "cabin_number": "309",
+            "deck": "Lower"
+        }
+    }
+]
