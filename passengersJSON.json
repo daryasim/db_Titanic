@@ -1,6 +1,5 @@
 [
     {
-        "boat_id": "60ae251bca5a33761b9955c1",
         "first_name": "John",
         "last_name": "Meyers",
         "gender": "male",
@@ -9,6 +8,11 @@
         "SibSp": 0,
         "ParCh": 0,
         "family_size": 1,
+        "LifeBoat": {
+            "capacity": 3,
+            "launchTime": "1911-02-04T09:36:04",
+            "survivorsCount": 2
+        },
         "Address": {
             "street": "Averson Blv.",
             "postal_code": "UT94901",
@@ -52,6 +56,11 @@
         "SibSp": 1,
         "ParCh": 0,
         "family_size": 2,
+        "LifeBoat": {
+            "capacity": 3,
+            "launchTime": "1911-02-04T09:36:04",
+            "survivorsCount": 2
+        },
         "Address": {
             "street": "Haywood St.",
             "postal_code": "DV00245",
@@ -95,6 +104,11 @@
         "SibSp": 1,
         "ParCh": 2,
         "family_size": 4,
+        "LifeBoat": {
+            "capacity": 3,
+            "launchTime": "1911-02-04T09:36:04",
+            "survivorsCount": 2
+        },
         "Address": {
             "street": "Averson Blv.",
             "postal_code": "CA00901",
